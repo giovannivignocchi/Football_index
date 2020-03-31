@@ -1,1 +1,1 @@
-Ehy ehy ehy
+This project aims to build a scraper to extract historical data from Football.index platform.
